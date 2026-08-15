@@ -1,0 +1,12 @@
+/build/
+/app/build/
+/.gradle/
+/.kotlin/
+/.idea/
+*.iml
+local.properties
+.DS_Store
+Thumbs.db
+*.jks
+*.keystore
+keystore.properties
